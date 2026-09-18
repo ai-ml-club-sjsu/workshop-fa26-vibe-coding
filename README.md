@@ -20,7 +20,7 @@ No custom agent profiles are included by design.
 
 The skill contents use the portable `SKILL.md` Agent Skills pattern. Harnesses differ in where project skills are discovered, so copy the two skill directories into the project skill location used by your tool.
 
-### Google Antigravity
+### Google Antigravity / Codex
 
 Place them under:
 
